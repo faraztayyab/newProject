@@ -1,0 +1,20 @@
+.bg-dark-i {
+ 
+  background-color: #F9CCD3;
+}
+.bg-font{
+  /* color: #AA1945;
+   */
+   color: #D2042D;
+}
+.bg-font-i{
+  color: #F9CCD3;
+}
+.bg-border{
+  border: 1px solid #AA1945;
+  outline: #AA1945;
+}
+.btn_i:hover{
+  background-color: #AA1945;
+  color: #F9CCD3;
+}
